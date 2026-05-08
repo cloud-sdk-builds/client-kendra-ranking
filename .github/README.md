@@ -1,12 +1,12 @@
 # 🟡 Community Browser CDN Build – JavaScript SDK Client Package
 
 This repository provides a **community-maintained, browser-ready distribution** of the npm module
-[`@aws-sdk/client-kendra-ranking`](https://www.npmjs.com/package/@aws-sdk/client-kendra-ranking/v/3.1044.0).
+[`@aws-sdk/client-kendra-ranking`](https://www.npmjs.com/package/@aws-sdk/client-kendra-ranking/v/3.1045.0).
 
 Refer to the links below for detailed documentation:
 - All Services - [https://cloud-sdk-builds.github.io](https://cloud-sdk-builds.github.io/)
 - @aws-sdk/client-kendra-ranking - [https://cloud-sdk-builds.github.io/?sdk=client-kendra-ranking](https://cloud-sdk-builds.github.io/?sdk=client-kendra-ranking)
-- @aws-sdk/client-kendra-ranking v3.1044.0 - [https://cloud-sdk-builds.github.io/?sdk=client-kendra-ranking&version=3.1044.0](https://cloud-sdk-builds.github.io/?sdk=client-kendra-ranking&version=3.1044.0)
+- @aws-sdk/client-kendra-ranking v3.1045.0 - [https://cloud-sdk-builds.github.io/?sdk=client-kendra-ranking&version=3.1045.0](https://cloud-sdk-builds.github.io/?sdk=client-kendra-ranking&version=3.1045.0)
 
 Each package is **automatically built and published to a CDN**, allowing developers to use the SDK client **directly in browsers** with **zero bundling or build steps**.
 
@@ -33,13 +33,13 @@ You can use this package directly in the browser via **jsDelivr** using an **imp
 CDN URL
 
 ```text
-https://cdn.jsdelivr.net/gh/cloud-sdk-builds/client-kendra-ranking@3.1044.0/index.min.mjs
+https://cdn.jsdelivr.net/gh/cloud-sdk-builds/client-kendra-ranking@3.1045.0/index.min.mjs
 ```
 
 SRI SHA Hash
 
 ```text
-sha384-X/Ti4lo4tN5JGc/dh6n9saGd7PVgr42GPHv2Ig7PVGWrSGWX9/Htb2WTozfdyGrc
+sha384-mp7xWS25PSWni7BxaHY3klaYDuSQMyJzFxw1xu2N02VlntIbnu0i1PvrMC/PvQYe
 ```
 
 ### 📌 Latest Version
@@ -66,10 +66,10 @@ ImportMap
 <script type="importmap">
       {
         "imports": {
-            "@aws-sdk/client-kendra-ranking": "https://cdn.jsdelivr.net/gh/cloud-sdk-builds/client-kendra-ranking@3.1044.0/index.min.mjs"
+            "@aws-sdk/client-kendra-ranking": "https://cdn.jsdelivr.net/gh/cloud-sdk-builds/client-kendra-ranking@3.1045.0/index.min.mjs"
         },
           "integrity": {
-            "https://cdn.jsdelivr.net/gh/cloud-sdk-builds/client-kendra-ranking@3.1044.0/index.min.mjs": "sha384-X/Ti4lo4tN5JGc/dh6n9saGd7PVgr42GPHv2Ig7PVGWrSGWX9/Htb2WTozfdyGrc"
+            "https://cdn.jsdelivr.net/gh/cloud-sdk-builds/client-kendra-ranking@3.1045.0/index.min.mjs": "sha384-mp7xWS25PSWni7BxaHY3klaYDuSQMyJzFxw1xu2N02VlntIbnu0i1PvrMC/PvQYe"
         }
       }
 </script>
@@ -86,10 +86,10 @@ Full Importmap Example
             <script type="importmap">
                   {
                     "imports": {
-                        "@aws-sdk/client-kendra-ranking": "https://cdn.jsdelivr.net/gh/cloud-sdk-builds/client-kendra-ranking@3.1044.0/index.min.mjs"
+                        "@aws-sdk/client-kendra-ranking": "https://cdn.jsdelivr.net/gh/cloud-sdk-builds/client-kendra-ranking@3.1045.0/index.min.mjs"
                     },
                       "integrity": {
-                        "https://cdn.jsdelivr.net/gh/cloud-sdk-builds/client-kendra-ranking@3.1044.0/index.min.mjs": "sha384-X/Ti4lo4tN5JGc/dh6n9saGd7PVgr42GPHv2Ig7PVGWrSGWX9/Htb2WTozfdyGrc"
+                        "https://cdn.jsdelivr.net/gh/cloud-sdk-builds/client-kendra-ranking@3.1045.0/index.min.mjs": "sha384-mp7xWS25PSWni7BxaHY3klaYDuSQMyJzFxw1xu2N02VlntIbnu0i1PvrMC/PvQYe"
                     }
                   }
             </script>
@@ -156,7 +156,7 @@ Replace
 
 When using CDN builds in production environments:
 
-* Always pin to a specific version (`@3.1044.0`)
+* Always pin to a specific version (`@3.1045.0`)
 * Avoid using `latest` in production to prevent unexpected breaking changes
 
 ---
@@ -176,7 +176,7 @@ https://github.com/cloud-sdk-builds/.github/issues
 This distribution follows the license terms included in the repository:
 
 ```
-https://github.com/cloud-sdk-builds/client-kendra-ranking/blob/refs/tags/3.1044.0/LICENSE
+https://github.com/cloud-sdk-builds/client-kendra-ranking/blob/refs/tags/3.1045.0/LICENSE
 ```
 
 ---
